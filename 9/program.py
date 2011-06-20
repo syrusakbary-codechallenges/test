@@ -10,6 +10,7 @@ def lights(l,i):
 
 class Test(Algorithm):
     def parse(self):
+        self.scanner.consume('\s*')
         self.scanner.consume('\d+')
         self.scanner.consume('\s*')
         while not(self.scanner.eos()):
