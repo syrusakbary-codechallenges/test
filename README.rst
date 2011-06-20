@@ -30,7 +30,6 @@ execute the tests just do::
 .. _Sage: http://www.sagemath.org/
 
 
-
 TODOs and BUGS
 ==============
 See: http://github.com/syrusakbary/TuentiContest/issues
