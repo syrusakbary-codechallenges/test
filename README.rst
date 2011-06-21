@@ -38,6 +38,6 @@ See: http://github.com/syrusakbary/TuentiContest/issues
 Other Solutions
 ===============
 
-- David Bengoa (`@dvdbng <http://twitter.com/dvdbng>`_) - https://github.com/SyrusAkbary/TuentiContest
+- David Bengoa (`@dvdbng <http://twitter.com/dvdbng>`_) - https://github.com/YouWoTMA/tuenticontest
 - Toni C‡rdenas (`@haradsul <http://twitter.com/haradsul>`_) - https://github.com/tcard/Tuenti-Contest
 - Manuel Flores (`@manufloresv <http://twitter.com/manufloresv>`_) - https://github.com/manufloresv/tuenticontest
