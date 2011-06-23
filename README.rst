@@ -39,5 +39,7 @@ Other Solutions
 ===============
 
 - David Bengoa (`@dvdbng <http://twitter.com/dvdbng>`_) - https://github.com/YouWoTMA/tuenticontest
-- Toni C‡rdenas (`@haradsul <http://twitter.com/haradsul>`_) - https://github.com/tcard/Tuenti-Contest
+- Toni Cárdenas (`@haradsul <http://twitter.com/haradsul>`_) - https://github.com/tcard/Tuenti-Contest
 - Manuel Flores (`@manufloresv <http://twitter.com/manufloresv>`_) - https://github.com/manufloresv/tuenticontest
+- Imanol Urra (`@ind3x <http://twitter.com/ind3x>`_) - https://github.com/ind3x/Tuenti-Contest
+- Fernando Manso (`@brok3r <http://twitter.com/brok3r>`_) - https://github.com/fmanso/Tuenti-Contest-2k11
